@@ -1,14 +1,16 @@
 {
-  "name": "r-tech-org/merge-apis",
+  "name": "@r-tech-org/merge-apis",
   "version": "0.0.5",
   "description": "## Scenario",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.2"
+    "@r-tech-org/merge-apis-meta": "workspace:^1.0.0",
+    "express": "^4.17.2",
+    "lodash": "^4.17.21"
   }
 }
