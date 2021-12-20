@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@r-tech-org/merge-apis-meta": "workspace:^1.0.0",
+    "@r-tech-org/merge-apis-meta": "^1.0.0",
     "express": "^4.17.2",
     "lodash": "^4.17.21"
   }
